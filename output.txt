@@ -1,0 +1,2 @@
+Koherensi: False | Traffic: 115 | Hits: 85 | Misses: 23 | Waktu: 0.00s
+Koherensi: True | Traffic: 139 | Hits: 91 | Misses: 28 | Waktu: 0.00s
